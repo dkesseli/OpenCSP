@@ -9,6 +9,7 @@
 
 # Virtual environment
 env/
+.venv/
 
 # Configuration files
 experiment_settings.ini
